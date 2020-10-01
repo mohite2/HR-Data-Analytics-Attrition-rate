@@ -1,6 +1,6 @@
 
-The purpose of this assignment is to get some practice using Pandas to filter and aggregate data and use the outputs of these processes in plots.
-### Using one of the tools that we have discussed (matplotlib and/or pandas), construct a visualization of the Illinois Building Inventory that communicates the following information -- choose 3 out of the 4 listed below to visualize:
+## The purpose of this assignment is to get some practice using Pandas to filter and aggregate data and use the outputs of these processes in plots.
+***Using one of the tools that we have discussed (matplotlib and/or pandas), construct a visualization of the Illinois Building Inventory that communicates the following information -- choose 3 out of the 4 listed below to visualize:
 
 1. Relationship between the year acquired and the year constructed
 2. Total square footage as a function of congressional district ("Congress Dist")
