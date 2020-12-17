@@ -1,6 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mohite2/mohite2.github.io/HEAD?filepath=Final_project_Part%203%2Fmohite2_Final_Project_Part%203_resubmitted.ipynb)
 
-
 ## Tittle: HR data Analytics to reduce attrition rate
 ### Aurthor: Sayali Mohite
 
