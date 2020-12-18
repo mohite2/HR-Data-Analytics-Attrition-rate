@@ -1,0 +1,10 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas
+bqplot
+plotly
+ipywidgets
+traitlets
+plotly.express
+plotly.graph_objects
