@@ -2,9 +2,16 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - python
   - numpy
-  - ipywidgets
-  - traitlets
-  - matplotlib
-  - bqplot
-  - pandas
+  - cartopy
+  - plotly
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - seaborn
+    - plotly
+    - ipywidgets
+    - bqplot
